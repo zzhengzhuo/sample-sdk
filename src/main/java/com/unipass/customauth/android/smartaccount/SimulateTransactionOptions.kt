@@ -1,0 +1,3 @@
+package com.unipass.smartAccount
+
+import uniffi.shared.SimulateTransactionOptions as FfiSimulateTransactionOptions
